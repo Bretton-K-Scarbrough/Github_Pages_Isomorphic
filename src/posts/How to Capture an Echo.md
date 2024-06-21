@@ -7,7 +7,7 @@ categories:
     - Physics
     - Differential Equations
     - DSP
-published: true
+published: false 
 ---
 
 <svelte:head>
