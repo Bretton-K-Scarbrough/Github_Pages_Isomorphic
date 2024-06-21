@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/bretton/Documents/Website/static/How_to_Capture_an_Echo/manim/media/videos/convolution animation/480p15/partial_movie_files/Brian/1185818338_3690819808_2358810818.mp4'
+file 'file:/Users/bretton/Documents/Website/static/How_to_Capture_an_Echo/manim/media/videos/convolution animation/480p15/partial_movie_files/Brian/624642324_2332108550_1249577926.mp4'
+file 'file:/Users/bretton/Documents/Website/static/How_to_Capture_an_Echo/manim/media/videos/convolution animation/480p15/partial_movie_files/Brian/624642324_1733944848_1963468122.mp4'
